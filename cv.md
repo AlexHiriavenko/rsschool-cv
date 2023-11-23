@@ -8,7 +8,7 @@
 
 **Phone:** +38 050 471 60 06 / +38 098 46 25 714<br>
 **E-mail:** martmarchmartmarch@gmail.com<br>
-**Telegram:** https://t.me/AlexHiriavenko<br>
+**Telegram:** https://t.me/Alleexxeeyy<br>
 [LinkedIn](https://www.linkedin.com/in/oleksii-hiriavenko//)<br>
 
 ---
@@ -110,11 +110,11 @@ Product promotion and sales increase
 ##### SELF-EDUCATION
 
 -   RS-School: Nodejs basics
--   RS-School: JavaScript (stage 0)
--   Epam: FrontEnd
--   ITEA: HTML, CSS
+-   RS-School: JavaScript (in progress)
+-   ITEA: HTML, CSS.
 -   ITVDN: JS Starter
 -   Udemy: React, Redux
+-   CodeWars.
 
 ---
 
