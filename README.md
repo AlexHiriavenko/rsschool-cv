@@ -1,9 +1,5 @@
-# CV Project
+# MY CV
 
-## Project Deploy:
+## url website:
 
-https://alexhiriavenko.github.io/rsschool-cv/
-
-## Markdown Deploy:
-
-https://alexhiriavenko.github.io/rsschool-cv/cv
+https://alexhiriavenko.github.io/CV/
