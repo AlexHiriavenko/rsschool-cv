@@ -2,4 +2,4 @@
 
 ## url website:
 
-https://alexhiriavenko.github.io/CV/
+https://alexhiriavenko.github.io/rsschool-cv/
