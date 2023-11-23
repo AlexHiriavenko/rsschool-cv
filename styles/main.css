@@ -141,7 +141,7 @@ main .section-title {
     box-shadow: 0 0 0 white, 0 0 0.7em white;
 }
 
-.load-pdf button {
+.load-pdf div {
     background-color: inherit;
     color: inherit;
     padding: 7px 12px 7px 6px;
@@ -151,6 +151,12 @@ main .section-title {
     border-radius: 15px;
     text-align: center;
     outline-offset: unset;
+    transition-duration: 0.5s;
+}
+
+main .load-pdf div:hover {
+    box-shadow: 0 0 0 lawngreen, 0 0 0.7em lawngreen;
+    color: lawngreen;
 }
 
 .load-pdf .arrow {
