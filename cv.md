@@ -14,14 +14,6 @@ Fullstack developer building web apps with JavaScript/TypeScript.
 - Git
 - JavaScript
 
-## Code Example
-
-```js
-function multiply(a, b) {
-  return a * b;
-}
-```
-
 ## Work Experience
 
 - **Fullstack Developer**, Palmo (2024–Present)
@@ -35,3 +27,11 @@ function multiply(a, b) {
 ## English Language
 
 Intermediate (B1)
+
+## Code Example
+
+```js
+function multiply(a, b) {
+  return a * b;
+}
+```
