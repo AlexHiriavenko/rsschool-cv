@@ -3,3 +3,4 @@
 ## Deploy URLs:
 
 - [CV in Markdown format](https://alexhiriavenko.github.io/rsschool-cv/cv)
+- [CV in web format](https://alexhiriavenko.github.io/rsschool-cv/)
