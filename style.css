@@ -52,13 +52,26 @@ table {
   border-spacing: 0;
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
   color: #1a1a1a;
+  overflow-wrap: break-word;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 .container {
-  width: 960px;
+  max-width: 960px;
+  width: 100%;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -70,7 +83,7 @@ body {
 }
 
 .header-inner {
-  padding: 20px;
+  padding: 20px 20px;
   text-align: center;
 }
 
@@ -96,8 +109,9 @@ body {
 
 .nav-list {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
-  gap: 20px;
+  gap: 12px 20px;
 }
 
 .nav-list a {
@@ -140,13 +154,40 @@ main.container {
 }
 
 .footer-inner {
-  padding: 20px;
+  padding: 32px 20px;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 80px;
+  gap: 24px 110px;
 }
 
 .footer-year {
   color: #ffffff;
+}
+
+@media (max-width: 600px) {
+  .footer-inner {
+    padding: 24px 20px;
+    gap: 16px 32px;
+  }
+
+  .profile h1 {
+    font-size: 26px;
+  }
+
+  .cv-section h2 {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 400px) {
+  .container {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .nav-list {
+    gap: 8px 14px;
+  }
 }
